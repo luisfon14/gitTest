@@ -1,3 +1,4 @@
 Esto es una practica con GIT
 Esto es para hacer un pull
+Quiero GENERAR CONFLICTO
 Esto es para generar error, de nuevo, DE NUEVO
