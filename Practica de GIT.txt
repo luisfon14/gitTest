@@ -1,4 +1,8 @@
 Esto es una practica con GIT
 Esto es para hacer un pull
+<<<<<<< HEAD
 Esto es para generar error, de nuevo
 
+=======
+Esto es para generar error desde GitHUB
+>>>>>>> dacc5338b1db62ba656943721dbd58eac25815f4
