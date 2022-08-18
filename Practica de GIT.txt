@@ -1,3 +1,7 @@
 Esto es una practica con GIT
 Esto es para hacer un pull
+<<<<<<< HEAD
 GENERAR CONFLICTO
+=======
+Esto es para generar error 2
+>>>>>>> 4dc55385a2c09d1d0737f7a1323ad598b8378211
